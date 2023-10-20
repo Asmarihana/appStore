@@ -1,0 +1,21 @@
+.button {
+  border: none;
+  color: #7b8794;
+  background-color: transparent;
+  margin-right: 5px;
+  font-size: 20px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+  border-bottom: 3px solid #2563eb;
+}
+.buttons {
+  border: none;
+  color: #7b8794;
+  background-color: transparent;
+  margin-right: 5px;
+  font-size: 20px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+}
